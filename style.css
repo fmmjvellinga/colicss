@@ -70,20 +70,9 @@ nav ul, li, a{
     margin-top:10%;
     margin-left:13%;
 }
-.tandwieletje{
+.box{
     float:left;
-    width:15%;
-    margin-top:3%;
-    margin-left:6%;
-}
-.tandwiel{
-    background-color:#57BCB1;
-    width:40%;
-    height:80%;
-    float:left;
-    margin-left:15%;
-}
-.context{
+    padding:1%;
 
-   ;
+
 }
